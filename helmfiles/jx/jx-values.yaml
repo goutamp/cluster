@@ -39,7 +39,7 @@ jxRequirements:
       email: ""
       enabled: false
       production: false
-  repository: nexus
+  repository: bucketrepo
   secretStorage: secretsManager
   vault: {}
   webhook: lighthouse
